@@ -13,4 +13,5 @@ Sunset in honolulu theme for VS Code
 
 #
 
-**_Crafted with ❤️ by Jean-Baptiste Thery & Sandra Saint-Julien_**
+**_Crafted with ❤️ by [Jean-Baptiste Théry](https://github.com/jb-thery) and Sandra Saint-Julien,
+published by [jCode Works](https://github.com/jcode-works)._**
